@@ -1,3 +1,25 @@
+# Playground Functions - Dart Version
+
+While I'm learning Dart language, I've tried to 'transpose' (or transpilling, you'll be decide) the JS fundaments into this project to my new knowledge in Dart's language. It's a challenge, but I'm try to. In resume, it's a Dart version of "Playground Functions"
+
+1 - Crie uma função usando o operador &&
+
+JavaScript possui um operador lógico &&, o qual recebe dois valores e retorna true se ambos os valores são verdadeiros, e retorna false se algum dos valores não o for.
+
+Considerando isso, implemente na função compareTrue, um código que ao receber dois parâmetros booleanos deve:
+
+    Retornar true se ambos os valores forem verdadeiros;
+    Retornar false se um ou ambos os parâmetros forem falsos.
+
+Faça a função somente utilizando o operador &&.
+
+O que será verificado:
+
+    Retorne false quando se chamar a função compareTrue com um parâmetro de valor false e outro de valor true
+
+    Retorne false quando se chamar a função compareTrue com dois parâmetros de valor false
+
+    Retorne true quando se chamar a função compareTrue com dois parâmetros de valor true */
 
 
 2 - Crie uma função que calcule a área de um triângulo
